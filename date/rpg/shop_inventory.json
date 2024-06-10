@@ -1,0 +1,36 @@
+{
+    "food": {
+        "price": 100,
+        "stock": 1000,
+        "max_stock": 1000
+    },
+    "potions": {
+        "attack_10": {
+            "price": 150,
+            "stock": 100,
+            "max_stock": 100
+        },
+        "attack_30": {
+            "price": 1000,
+            "stock": 100,
+            "max_stock": 100
+        }
+    },
+    "equipment": {
+        "level_1": {
+            "price": 300,
+            "stock": 30,
+            "max_stock": 30
+        },
+        "level_2": {
+            "price": 400,
+            "stock": 10,
+            "max_stock": 10
+        },
+        "level_3": {
+            "price": 1000,
+            "stock": 1,
+            "max_stock": 1
+        }
+    }
+}
