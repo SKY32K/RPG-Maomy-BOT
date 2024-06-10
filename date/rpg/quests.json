@@ -1,0 +1,59 @@
+{
+    "main": {
+        "魔法書的秘密": {
+            "description": "探索艾斯特利亞王國古老圖書館中的神秘魔法書。",
+            "challenges": ["解謎", "戰鬥", "魔法對決"],
+            "rewards": {"tokens": 500, "item": "稀有魔法道具"}
+        },
+        "黑龍的威脅": {
+            "description": "前往瓦拉克王國邊境，擊敗黑龍。",
+            "challenges": ["戰鬥", "戰術協作", "尋找黑龍的弱點"],
+            "rewards": {"tokens": 800, "item": "強力武器"}
+        }
+    },
+    "side": {
+        "失落的神器": {
+            "description": "深入阿爾瑪羅王國的密林，尋找失落的神器。",
+            "challenges": ["潛行", "射箭技巧", "解謎"],
+            "rewards": {"tokens": 300, "item": "神秘弓箭"}
+        },
+        "鋼鐵之魂": {
+            "description": "在鋼鐵之城中，鍛造一件無與倫比的裝備。",
+            "challenges": ["資源收集", "製作", "與競爭對手鐵匠的較量"],
+            "rewards": {"tokens": 400, "item": "頂級裝備"}
+        },
+        "王國的宴會": {
+            "description": "準備一場豐盛的宴席，贏得廚藝大賽的冠軍。",
+            "challenges": ["烹飪技巧", "食材收集", "與其他廚師的競爭"],
+            "rewards": {"tokens": 200, "item": "稀有食譜"}
+        }
+    },
+    "final": {
+        "最終-1": {
+            "description": "找到巫師國的位置。",
+            "challenges": ["耐心"],
+            "duration": 600,
+            "rewards": {"tokens": 1000, "item": "探索者徽章"}
+        },
+        "最終-2": {
+            "description": "提升等級到20等。",
+            "challenges": ["等級提升"],
+            "rewards": {"tokens": 500}
+        },
+        "最終-3": {
+            "description": "加入一個公會。",
+            "challenges": ["加入公會"],
+            "rewards": {"tokens": 300}
+        },
+        "最終-4": {
+            "description": "將公會等級提升到3級。",
+            "challenges": ["公會等級提升"],
+            "rewards": {"tokens": 400}
+        },
+        "最終-5": {
+            "description": "打敗艾爾文巫師。",
+            "challenges": ["戰鬥"],
+            "rewards": {"tokens": 2000, "item": "艾爾文巫師的魔法杖"}
+        }
+    }
+}
