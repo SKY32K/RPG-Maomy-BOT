@@ -1,0 +1,14 @@
+{
+    "name": "wood",
+    "role": "\u6230\u58eb",
+    "level": 1,
+    "hp": 120,
+    "mp": 50,
+    "strength": 20,
+    "intelligence": 5,
+    "defense": 1.1,
+    "attack": 1.05,
+    "tokens": 11000,
+    "inventory": [],
+    "banned": false
+}
